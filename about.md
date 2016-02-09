@@ -7,10 +7,17 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder.
-
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them.
-
+<p>
+Hi, My name is Ryan Tran. I'm a web developer focused primarily on backend
+technologies.
+</p>
+<p>
+I'm currently living in San Jose, California.
+My hobbies, aside from learning about new technologies and frameworks, is learning how to draw and becoming more proficient at art.  
+</p>
+<p>
+My current side project is focused on making a web app where I can more easily collaborate with my friends and peers who are interested in art.
+</p>
 
 <br/>
 <hr/>
@@ -23,5 +30,5 @@ Link to your social media connections, too. This theme is set up to use <a href=
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+	The best way to contact me is via email.
 </div>
