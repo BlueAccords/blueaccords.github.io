@@ -8,15 +8,16 @@ permalink: /about/
 
 <br/>
 <p>
-Hi, My name is Ryan Tran. I'm a web developer focused primarily on backend
-technologies.
+Hi, My name is Ryan Tran. I'm a web developer focused primarily on the backend.
 </p>
 <p>
 I'm currently living in San Jose, California.
-My hobbies, aside from learning about new technologies and frameworks, is learning how to draw and becoming more proficient at art.  
+My hobbies, aside from learning about new technologies and more about programming,
+is learning how to draw and becoming a better artist.
 </p>
 <p>
-My current side project is focused on making a web app where I can more easily collaborate with my friends and peers who are interested in art.
+My current side project is focused on making a web app where I can more easily collaborate
+with my friends who are interested in art.
 </p>
 
 <br/>
