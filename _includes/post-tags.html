@@ -8,6 +8,6 @@
   {% endif %}
   {% for tag in tags %}
 
-  <a href="/tags/#{{tag|slugize}}"><i class="fa fa-tag"></i> {{tag}}</a>{% unless forloop.last %},{% endunless %}
+  <a href="/archive/#{{tag|slugize}}"><i class="fa fa-tag"></i> {{tag}}</a>{% unless forloop.last %},{% endunless %}
   {% endfor %}
 </div>
