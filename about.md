@@ -26,7 +26,7 @@ with my friends who are interested in art.
 <span class="contacticon center">
 	<a href="mailto:{{ site.email }}"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/{{site.github_username}}" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com/{{site.linkedin_url}}" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="https://www.linkedin.com/in/{{site.linkedin_url}}" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="https://twitter.com/{{site.twitter_username}}" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
